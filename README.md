@@ -152,7 +152,7 @@ This makes sentence IDs stable across reruns as long as:
 
 ---
 
-## Performance tips (optional)
+## Performance tips
 
 * Large corpora can take time. If you need speed:
 
