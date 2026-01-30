@@ -1,4 +1,4 @@
-# README — Merge Aozora `.txt` files into a single GiNZA CoNLL-U dataset (PowerShell)
+# README — Merge `.txt` files into a single GiNZA CoNLL-U dataset (PowerShell)
 
 This script recursively walks a root folder containing subfolders of UTF-8 `.txt` files, runs **GiNZA** on each file to produce **CoNLL-U** output, and **merges everything into one `.conllu` file**. It also adds deterministic document/sentence metadata so the merged corpus is easy to index and debug.
 
